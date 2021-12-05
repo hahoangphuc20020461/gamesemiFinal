@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="416.0" prefWidth="992.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uet.oop.bomberman.BombermanGame">
+   <children>
+      <Pane layoutY="4.0" prefHeight="416.0" prefWidth="992.0">
+         <children>
+            <Button layoutX="470.0" layoutY="271.0" mnemonicParsing="false" text="PLAY" />
+         </children></Pane>
+   </children>
+</AnchorPane>
